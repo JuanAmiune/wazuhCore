@@ -1,0 +1,14 @@
+{
+  "id": "wazuhCore",
+  "version": "4.10.1-01",
+  "opensearchDashboardsVersion": "2.16.0",
+  "server": true,
+  "ui": true,
+  "requiredPlugins": [
+    "navigation",
+    "opensearchDashboardsUtils"
+  ],
+  "optionalPlugins": [
+    "securityDashboards"
+  ]
+}

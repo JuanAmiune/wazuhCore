@@ -1,0 +1,64 @@
+{
+  "bundleRefExportIds": [],
+  "optimizerCacheKey": {
+    "lastCommit": "72043607e4380c14f09d173d71021eed062d1cc7",
+    "bootstrap": "# this is only human readable for debugging, please don't try to parse this\n@opensearch/datemath:373dcdb84744babe729e5ce90b170d011e955fdd\n@osd/babel-preset:e5830f9129d296f9ece3f7c52241cb579f93edb6\n@osd/config-schema:be4201249e49a6aca7950a9b5eb1d7d4421a79fc\n@osd/cross-platform:be4201249e49a6aca7950a9b5eb1d7d4421a79fc\n@osd/dev-utils:0af226efa9abb2cf01e48410425c0cb812463571\n@osd/expect:373dcdb84744babe729e5ce90b170d011e955fdd\n@osd/i18n:cdd5ab1e8c68812ad4ecc35359c4f721a016d748\n@osd/monaco:a897547f1b9c61808473a85e998f053846c0a6a3\n@osd/optimizer:947f1770d78310fdfe4ac3f25e786916a1edc07f\n@osd/std:6ec41beecdbeb43099cc0b944fbc3a3be119d873\n@osd/ui-shared-deps:91e42adf3d799bbb1b0f08a40773a55e8630f297\n@osd/utility-types:f58c3c42668e14381939ac9c40779cf30399dbb5\n@osd/utils:f2567fdab0f3ee861ad914d5736c2fe101b77533",
+    "deletedPaths": [],
+    "modifiedTimes": {},
+    "workerConfig": {
+      "dist": true,
+      "repoRoot": "/home/node/kbn",
+      "optimizerCacheKey": "♻",
+      "themeTags": [
+        "v7dark",
+        "v7light",
+        "v8dark",
+        "v8light"
+      ],
+      "browserslistEnv": "production"
+    }
+  },
+  "cacheKey": {
+    "spec": {
+      "type": "plugin",
+      "id": "wazuhCore",
+      "publicDirNames": [
+        "public"
+      ],
+      "contextDir": "/home/node/kbn/plugins/wazuh-core",
+      "sourceRoot": "/home/node/kbn",
+      "outputDir": "/home/node/kbn/plugins/wazuh-core/target/public",
+      "manifestPath": "/home/node/kbn/plugins/wazuh-core/opensearch_dashboards.json"
+    },
+    "mtimes": {
+      "/home/node/kbn/node_modules/deep-freeze-strict/package.json": 1736865536000,
+      "/home/node/kbn/node_modules/fast-deep-equal/package.json": 1736865526000,
+      "/home/node/kbn/node_modules/path-browserify/package.json": 1736865527000,
+      "/home/node/kbn/node_modules/process/package.json": 1736865512000,
+      "/home/node/kbn/node_modules/react-use/package.json": 1736865538000,
+      "/home/node/kbn/packages/osd-optimizer/target/worker/entry_point_creator.js": 1736865687000,
+      "/home/node/kbn/packages/osd-ui-shared-deps/public_path_module_creator.js": 1736865503000,
+      "/home/node/kbn/plugins/wazuh-core/common/constants.ts": 1736938916345.5889,
+      "/home/node/kbn/plugins/wazuh-core/common/services/file-size.ts": 1736938916348.5889,
+      "/home/node/kbn/plugins/wazuh-core/common/services/settings-validator.ts": 1736938916348.5889,
+      "/home/node/kbn/plugins/wazuh-core/opensearch_dashboards.json": 1736938916349.5889,
+      "/home/node/kbn/plugins/wazuh-core/package.json": 1736938916349.5889
+    }
+  },
+  "moduleCount": 45,
+  "workUnits": 46,
+  "files": [
+    "/home/node/kbn/node_modules/deep-freeze-strict/package.json",
+    "/home/node/kbn/node_modules/fast-deep-equal/package.json",
+    "/home/node/kbn/node_modules/path-browserify/package.json",
+    "/home/node/kbn/node_modules/process/package.json",
+    "/home/node/kbn/node_modules/react-use/package.json",
+    "/home/node/kbn/packages/osd-optimizer/target/worker/entry_point_creator.js",
+    "/home/node/kbn/packages/osd-ui-shared-deps/public_path_module_creator.js",
+    "/home/node/kbn/plugins/wazuh-core/common/constants.ts",
+    "/home/node/kbn/plugins/wazuh-core/common/services/file-size.ts",
+    "/home/node/kbn/plugins/wazuh-core/common/services/settings-validator.ts",
+    "/home/node/kbn/plugins/wazuh-core/opensearch_dashboards.json",
+    "/home/node/kbn/plugins/wazuh-core/package.json"
+  ]
+}
